@@ -15,7 +15,9 @@ ul {
 }
 
 body {
-    background-image: url(./Me.JPG);
     height: 50vh;
     widows: 50vw;
+    font-family: 'Lato','Helvetica','sans-serif';
+    background-color: lightgray;
+    background-image: ("./me.jpg");
 }
