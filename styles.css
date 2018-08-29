@@ -19,5 +19,25 @@ body {
     widows: 50vw;
     font-family: 'Lato','Helvetica','sans-serif';
     background-color: lightgray;
-    background-image: ("./me.jpg");
+}
+
+h2, p, {
+    text-align: center;
+    text-decoration: none
+}
+
+.readme-wrapper{
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: auto;
+    padding: 10px;
+    border: solid;
+    border-radius: 10px;
 }
