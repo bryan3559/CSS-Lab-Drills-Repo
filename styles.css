@@ -40,4 +40,16 @@ a:hover {
     padding: 10px;
     border: solid;
     border-radius: 10px;
+    display: block;
+    width: 20%;
 }
+
+span {
+    font-weight: bold;
+    color: red;
+}
+
+#box1, #box2, #boxN, #boxO {
+    background-color: beige;
+}
+
