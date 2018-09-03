@@ -23,7 +23,7 @@ body {
 
 h2, p, {
     text-align: center;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .readme-wrapper{
@@ -53,3 +53,63 @@ span {
     background-color: beige;
 }
 
+.pic-image {
+background-color: rgba(30, 158, 243, 0.897);
+width: auto;
+height: auto;
+display: inline;
+float: left;
+}
+
+.maroon-text {
+    color: maroon;
+}
+
+.green-text {
+    color: darkgreen;
+}
+
+#show1 {
+    color: darkblue;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#show2 {
+    color: darkmagenta;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#show3 {
+    color: darkgreen;
+    font-weight: inherit;
+    text-decoration: underline;
+}
+
+#show4 {
+    color: darkorange;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#show5 {
+    color: darkred;
+    text-decoration: underline;
+}
+
+.list-style1,.list-style2,.list-style3 {
+    color: black;
+    text-align: left;
+    clear: left;
+}
+
+.background-list {
+    background-color: lightgrey; 
+}
+
+.border-type {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
